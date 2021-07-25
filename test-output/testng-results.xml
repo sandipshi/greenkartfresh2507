@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22598" started-at="2021-07-25T11:57:24 IST" finished-at="2021-07-25T11:57:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22598" started-at="2021-07-25T11:57:24 IST" finished-at="2021-07-25T11:57:47 IST">
+      <class name="com.greenkart.testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.greenkart.testCases.HomePageTest@7494e528]" name="setUp" is-config="true" duration-ms="8009" started-at="2021-07-25T11:57:24 IST" finished-at="2021-07-25T11:57:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyProductInCart()[pri:4, instance:com.greenkart.testCases.HomePageTest@7494e528]" name="verifyProductInCart" duration-ms="13357" started-at="2021-07-25T11:57:32 IST" finished-at="2021-07-25T11:57:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.greenkart.testCases.HomePageTest@7494e528]" name="tearDown" is-config="true" duration-ms="1128" started-at="2021-07-25T11:57:46 IST" finished-at="2021-07-25T11:57:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.greenkart.testCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
